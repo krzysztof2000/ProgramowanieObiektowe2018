@@ -7,3 +7,5 @@ Wojciech Dase https://github.com/Pawelox/Turbodiodpol
 Paweł Kuźmiński https://github.com/Pawelox/Turbodiodpol 
 Grzegorz Zieliński https://github.com/grzesieking10/CATCHTHEBATONIX
 Grzegorz Kulikowski https://github.com/pa221153/PWr2048 
+Krzysztof Cichy https://github.com/krzysztof2000/Aleph.2.0
+Marcin Adamczyk https://github.com/krzysztof2000/Aleph.2.0
